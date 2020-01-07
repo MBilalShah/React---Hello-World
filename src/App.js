@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import NameList from './components/NameList'
+import Inline from './components/Inline'
 
 function App() {
   return (
     <div className="App">
-      <NameList/>  
+      <Inline/>
     </div>
   );
 }
